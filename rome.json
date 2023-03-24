@@ -6,6 +6,9 @@
     "lineWidth": 100,
     "indentSize": 2
   },
+  "files": {
+    "maxSize": 10485760
+  },
   "javascript": {
     "formatter": {
       "quoteStyle": "single"
